@@ -24,4 +24,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "html-proofer", ">= 3.15.3"
 
-gem "eip_validator", ">=0.8.2"
+gem "eip_validator", ">= 0.8.2"
